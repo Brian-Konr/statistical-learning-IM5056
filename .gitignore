@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 hw4/data/
+
+# do not push .ckpt files to github
+*.ckpt
